@@ -1,10 +1,26 @@
 .App {
   text-align: center;
 }
+.Students{
+  color: lightcoral;
+}
+.Header{
+  background-color: #40a2bd;
+  color: white;
+ 
+}
+.Footer{
+  background-color: #61dafb;
+}
+.form{
+  width: 20vw;
+}
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  display: flex;
+  align-self: flex-start;
 }
 
 @media (prefers-reduced-motion: no-preference) {
